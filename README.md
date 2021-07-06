@@ -1,5 +1,5 @@
 # Adversarial Robustness of Deep Learning using a V1 Front-End
-## KCL Computer Science Final Project
+_KCL Computer Science Final Project_
 
 This is where the code used for my King's College London Computer Science BSc final project will go once I am allowed to publicly share the code.
 
